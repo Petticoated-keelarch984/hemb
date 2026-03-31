@@ -78,8 +78,8 @@ The reference implementation lives in MeshSat:
 https://github.com/cubeos-app/meshsat/tree/main/internal/hemb
 
 HeMB is also ported to:
-- MeshSat Hub: https://gitlab.nuclearlighters.net/products/meshsat-hub
-- MeshSat Android: https://gitlab.nuclearlighters.net/products/meshsat-android
+- MeshSat Hub: https://github.com/cubeos-app/meshsat-hub
+- MeshSat Android: https://github.com/cubeos-app/meshsat-android
 
 ## Related
 
