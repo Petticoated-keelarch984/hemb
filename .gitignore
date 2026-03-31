@@ -1,0 +1,8 @@
+CLAUDE.md
+.claude/
+*.swp
+*.swo
+*~
+.DS_Store
+build/
+*.html
